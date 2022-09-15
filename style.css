@@ -98,8 +98,25 @@ p {
   font-weight: bold;
 }
 
+a:hover {
+  color: #7B6CD9;
+  text-decoration-color: #7B6CD9;
+}
+
 a {
-  color: black !important;
+  color: #7B6CD9;
+}
+
+a.for {
+  color: #32BAD9;
+  text-decoration-color: #32BAD9;
+  /* text-decoration: none; */
+}
+
+a.silver {
+  color: #F28DE1;
+  text-decoration-color: #F28DE1;
+  /* text-decoration: none; */
 }
 
 #container {
